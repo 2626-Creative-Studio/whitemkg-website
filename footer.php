@@ -1,7 +1,7 @@
   <footer>
       <div class="copyright">
         <div class="voffset40"></div>
-        <p>copyright 2016. all rights reserved. <!--<a href="#">learn more</a> / <a href="#">view work</a>--></p>
+        <p>copyright 2018. all rights reserved. <!--<a href="#">learn more</a> / <a href="#">view work</a>--></p>
         <div class="voffset40"></div>
       </div>
     </footer>
