@@ -43,7 +43,7 @@
             <div class="voffset50"></div>
             <p class="pretitle">email</p>
             <div class="voffset20"></div>
-            <p><a href="mailto:hello@rebirthdigital.com" class="mailto">hello@rebirthdigital.com</a></p>
+            <p><a href="mailto:hello@rebirthdigital.com" class="mailto">hello@whitemkg.com</a></p>
           </div>
         </div>
         <div class="contact-form bg-cream">
@@ -80,63 +80,12 @@
             <div class="voffset70"></div>
             <p class="pretitle">Connect with us</p>
             <ul class="social-links">
-              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-              <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+              <li><a href="https://www.facebook.com/whitemkg/"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="https://www.instagram.com/whitemkg/"><i class="fa fa-instagram"></i></a></li>
             </ul>
           </div>
         </div>
       </div>
     </div>
-
-    <footer>
-      <div class="container-fluid">
-        <div class="voffset30"></div>
-        <div class="row">
-          <div class="col-md-3 col-sm-6">
-            <div class="voffset30"></div>
-            <img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/demo/logo.png" alt="logo">
-            <div class="voffset20"></div>
-            <p>Rebirth is a digital agencystriving to bring your ideas to life by givin it that extra feel.</p>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="voffset30"></div>
-            <h5 class="title-small">Browse</h5>
-            <div class="voffset20"></div>
-            <ul class="list-menu">
-              <li><a href="index.html">Home</a></li>
-              <li><a href="about.html">About</a></li>
-              <li><a href="services.html">Service</a></li>
-              <li><a href="work.html">Work</a></li>
-              <li><a href="contact.html">Contact</a></li>
-              <li><a href="work-detail.html">Work Single</a></li>
-              <li><a href="blog.html">Blog</a></li>
-              <li><a href="post.html">Blog Detail</a></li>
-            </ul>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="voffset30"></div>
-            <h5 class="title-small">Contact us</h5>
-            <div class="voffset20"></div>
-            <p class="contact-link fa fa-envelope-o">info@rebirth.com</p>
-            <p class="contact-link fa fa-mobile">1.800.321.4789</p>
-            <p class="contact-link fa fa-map-marker">San Francisco Office <br> 425 2nd St, Suite 100, <br> CA 94107</p>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="voffset30"></div>
-            <h5 class="title-small">Stay intouch</h5>
-            <div class="voffset20"></div>
-            <p class="info-newsletter">Sing up for Rebirth newsletter to stay up to date</p>
-            <div class="voffset20"></div>
-            <form action="mail.php" method="post" id="contactform" class="contact-form">
-              <input type="email" id="email" name="email" placeholder="email" class="required email">
-              <input type="submit" class="btn btn--alt" value=">">
-            </form>
-          </div>
-        </div>
-        <div class="voffset30"></div>
-      </div>
-    </footer>
 
 <?php get_footer();?>
