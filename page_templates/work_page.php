@@ -266,55 +266,6 @@
     </div>
   </div>
 
-
-  <section class="section full full-width bg-cream">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="voffset120"></div>
-          <p class="pretitle">awards</p>
-          <div class="voffset10"></div>
-          <p class="subtitle big">our work has been recognised across the web</p>
-          <div class="voffset200"></div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="features awards">
-          <ul>
-            <li class="col-sm-3 horizontal-border fadeInUp">
-              <img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/demo/logos-awards/fwa.png" alt="">
-              <div class="voffset10"></div>
-              <h4 class="titleaward">2013<span>The FWA Awards</span></h4>
-              <div class="voffset10"></div>
-            </li>
-            <li class="col-sm-3 horizontal-border fadeInUp">
-              <img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/demo/logos-awards/licks.png" alt="">
-              <div class="voffset10"></div>
-              <h4 class="titleaward">2012<span>Design Licks</span></h4>
-              <div class="voffset10"></div>
-            </li>
-            <li class="col-sm-3 horizontal-border fadeInUp">
-              <img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/demo/logos-awards/css-design.png"
-                   alt="">
-              <div class="voffset10"></div>
-              <h4 class="titleaward">2012<span>CSS Design Awards</span></h4>
-              <div class="voffset10"></div>
-            </li>
-            <li class="col-sm-3 horizontal-border fadeInUp">
-              <img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/demo/logos-awards/awwwards.png"
-                   alt="">
-              <div class="voffset10"></div>
-              <h4 class="titleaward">2011<span>Awwwards</span></h4>
-              <div class="voffset10"></div>
-            </li>
-          </ul>
-          <div class="voffset240"></div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
   <!-- work with us -->
   <div class="banner inverse- full full-width">
     <div class="container">
