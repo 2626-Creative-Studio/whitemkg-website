@@ -23,11 +23,11 @@ function menuFixed() {
   // } else {
   //   $('#jHeader').removeClass('overflow');
   // }
-  if ($(window).scrollTop() >= ($('.jIntro').height())) {
-    $('#jHeader').addClass('dark');
-  } else {
-    $('#jHeader').removeClass('dark');
-  }
+  // if ($(window).scrollTop() >= ($('.jIntro').height())) {
+  //   $('#jHeader').addClass('dark');
+  // } else {
+  //   $('#jHeader').removeClass('dark');
+  // }
 }
 
 

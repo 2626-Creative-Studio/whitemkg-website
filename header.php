@@ -34,7 +34,7 @@
         <div class="loader-minimal"></div>
     </div>
 
-    <header id="jHeader" class="invert fixed">
+    <header id="jHeader" class="invert fixed dark">
       <nav id="whitemkg-navbar" class="navbar navbar-default" role="navigation">
 
         <div class="navbar-header">
