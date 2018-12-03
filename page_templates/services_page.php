@@ -6,8 +6,9 @@
 
 <?php get_header();?>
 
-<!-- our process -->
-<div class="banner inverse- full full-width">
+<section id="services">
+	<!-- our process -->
+	<div class="banner inverse- full full-width">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
@@ -145,5 +146,6 @@
 			</div>
 		</div>
 	</div>
+</section>
 
 <?php get_footer();?>
