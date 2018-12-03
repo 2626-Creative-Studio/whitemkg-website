@@ -1,6 +1,6 @@
 #jHeader {
   position: fixed;
-
+  top: 0px;
 
   #whitemkg-navbar {
 
@@ -10,6 +10,15 @@
 
       img {
         width: 7.5rem;
+      }
+    }
+    a:after {
+      height: 3px;
+      bottom: -3px;
+    }
+    .current_page_item{
+      a{
+        border-bottom: 3px solid #fff;
       }
     }
   }

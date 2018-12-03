@@ -257,23 +257,23 @@
             <h2 class="subtitle big">we believe good service is good business</h2>
             <div class="voffset80"></div>
             <ul class="clients-inline">
-              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/Amazon-Logo.png" alt=""></li>
-              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/BMW-Logo.png" alt=""></li>
-              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/GKB-Optocals-Logo.png" alt=""></li>
-              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/hendricks-gin-Logo.png" alt=""></li>
-              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/Jameson-logo.png" alt=""></li>
-              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/logo-pernod-ricard.png" alt=""></li>
-              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/logo-william-grant-sons.png" alt=""></li>
-              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/Longchamp_logo.png" alt=""></li>
+              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/Amazon-Logo.jpg" alt=""></li>
+              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/BMW-Logo.jpg" alt=""></li>
+              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/GKB-Optocals-Logo.jpg" alt=""></li>
+              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/hendricks-gin-Logo.jpg" alt=""></li>
+              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/Jameson-logo.jpg" alt=""></li>
+              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/logo-pernod-ricard.jpg" alt=""></li>
+              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/logo-william-grant-sons.jpg" alt=""></li>
+              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/Longchamp_logo.jpg" alt=""></li>
             </ul>
 						<ul class="clients-inline">
-              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/Monkey-47-Logo.png" alt=""></li>
-              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/officinepanerai_logo.png" alt=""></li>
-              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/OnePlus_logo.svg.png" alt=""></li>
-              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/Republic-of-Maldives-LOgo.png" alt=""></li>
-              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/Rohit-Bal-Logo.png" alt=""></li>
-              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/Swarovski-Logo.png" alt=""></li>
-              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/The-Balvenie-Logo.png" alt=""></li>
+              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/Monkey-47-Logo.jpg" alt=""></li>
+              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/officinepanerai_logo.jpg" alt=""></li>
+              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/OnePlus_logo.svg.jpg" alt=""></li>
+              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/Republic-of-Maldives-LOgo.jpg" alt=""></li>
+              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/Rohit-Bal-Logo.jpg" alt=""></li>
+              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/Swarovski-Logo.jpg" alt=""></li>
+              <li><img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/clients/The-Balvenie-Logo.jpg" alt=""></li>
             </ul>
             <div class="voffset90"></div>
           </div>
