@@ -8,16 +8,33 @@
       padding: 0.5rem 0px;
       margin-left: 3rem;
 
-      img {
+      svg {
         width: 7.5rem;
+
+        circle {
+          animation: 0.5s ease alternate infinite blink;
+        }
       }
+
+      @media screen and (max-width: $tab) {
+        padding: 0rem;
+
+        svg {
+          width: 6.5rem;
+          height: auto;
+          margin-top: 0px;
+        }
+      }
+
     }
+
     a:after {
       height: 3px;
       bottom: -3px;
     }
-    .current_page_item{
-      a{
+
+    .current_page_item {
+      a {
         border-bottom: 3px solid #fff;
       }
     }
@@ -26,4 +43,15 @@
 
 .dark {
   background: #000000;
+}
+
+// Blink Animation 
+@keyframes blink {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
 }
