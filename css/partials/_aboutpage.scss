@@ -1,0 +1,17 @@
+#whitemkg-aboutpage {
+  .our-modus-operandi {
+    img {
+      width: 50px;
+    }
+
+    .row {
+      display: flex;
+      justify-content: space-between;
+
+      p {
+        font-size: 10px;
+        text-transform: uppercase;
+      }
+    }
+  }
+}
